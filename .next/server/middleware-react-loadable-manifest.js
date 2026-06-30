@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\LandingPage.tsx -> ./BlobScene\":{\"id\":\"components\\\\LandingPage.tsx -> ./BlobScene\",\"files\":[\"static/chunks/_app-pages-browser_src_components_BlobScene_tsx.js\"]}}"
