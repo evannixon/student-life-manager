@@ -82,7 +82,7 @@ src/
 
 ---
 
-## ✅ Fitur Phase 1
+## Fitur Phase 1
 - [x] Auth (Register, Login, Logout)
 - [x] Dashboard — budget overview, stats, critical tasks
 - [x] Keuangan — tambah transaksi, breakdown per kategori
@@ -90,7 +90,7 @@ src/
 - [x] Realtime sync (multi-device)
 - [x] Survival Mode (budget < 20%)
 
-## 🔜 Phase 2 (berikutnya)
+## Phase 2 (berikutnya)
 - [ ] OCR Foto Nota dengan Gemini Vision API
 - [ ] Financial Roasting by AI
 - [ ] Split Bill
